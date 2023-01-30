@@ -9,6 +9,12 @@ If you want to discover more about 4D, here are some useful links:
 * the [official documentation](https://developer.4d.com/docs/),
 * the [4D blog](https://blog.4d.com) to keep up with the new features,
 * and the [4D forum](https://discuss.4d.com) to stay close to the engineering and product teams and get help from the community.
+ 
+ 
+  
+<p align="center">
+    <a href="https://github.com/4d-depot/awesome-4d"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/></a>
+</p>
 
 <!--
 
